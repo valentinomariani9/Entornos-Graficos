@@ -1,6 +1,6 @@
 # Entornos Gráficos
 
-## Repositorio Práctica
+## Práctica Nº 2 - CSS
 
 **Alumno:** Mariani, Valentino.
 **Legajo:** 50179.

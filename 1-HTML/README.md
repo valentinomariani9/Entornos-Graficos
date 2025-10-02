@@ -1,6 +1,6 @@
 # Entornos Gráficos
 
-## Repositorio Práctica
+## Práctica Nº 1 - HTML
 
 **Alumno:** Mariani, Valentino.
 **Legajo:** 50179.
