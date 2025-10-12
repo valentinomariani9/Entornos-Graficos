@@ -1,5 +1,5 @@
 <?php
-$destinatario = "bochataymauricio01@gmail.com";
+$destinatario = "valentinomariani9@gmail.com";
 $asunto = "Prueba con HTML";
 
 // Cabeceras para indicar que el contenido es HTML
